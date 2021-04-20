@@ -26,5 +26,5 @@ x = np.array(a)
 y = np.array(b)
 s = time.time()
 c = x*y
-print("NumPy time", time.time()-s)
+print("NumPy time:", time.time()-s)
 
